@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactManager">
+    <artifact type="exploded-war" name="qtod:GrailsWeb exploded">
+      <root id="root">
+        <element id="javaee-facet-resources" facet="qtod/web/GrailsWeb" />
+      </root>
+    </artifact>
+  </component>
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/qtod.iml" filepath="$PROJECT_DIR$/qtod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qtod-grailsPlugins.iml" filepath="$PROJECT_DIR$/qtod-grailsPlugins.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="" />
+  </component>
+  <component name="libraryTable">
+    <library name="Grails 2.3.1">
+      <CLASSES>
+        <root url="jar:///usr/share/grails/dist/grails-aether-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-aether-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-aether-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-async-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-async-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-async-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-bootstrap-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-bootstrap-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-bootstrap-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-core-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-core-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-core-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-databinding-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-databinding-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-databinding-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-docs-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-docs-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-docs-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-logging-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-logging-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-logging-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-async-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-async-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-async-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-codecs-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-codecs-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-codecs-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-controllers-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-controllers-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-controllers-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-converters-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-converters-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-converters-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-databinding-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-databinding-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-databinding-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-datasource-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-datasource-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-datasource-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-domain-class-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-domain-class-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-domain-class-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-filters-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-filters-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-filters-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-gsp-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-gsp-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-gsp-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-i18n-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-i18n-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-i18n-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-log4j-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-log4j-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-log4j-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-mimetypes-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-mimetypes-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-mimetypes-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-rest-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-rest-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-rest-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-services-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-services-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-services-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-servlets-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-servlets-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-servlets-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-testing-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-testing-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-testing-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-url-mappings-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-url-mappings-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-url-mappings-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-validation-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-validation-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-plugin-validation-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-resources-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-resources-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-resources-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-scripts-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-scripts-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-scripts-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-spring-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-spring-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-spring-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-test-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-test-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-test-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-web-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-web-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-web-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-wrapper-2.3.1-javadoc.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-wrapper-2.3.1-sources.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-wrapper-2.3.1.jar!/" />
+        <root url="jar:///usr/share/grails/dist/grails-wrapper-support-2.3.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
+
