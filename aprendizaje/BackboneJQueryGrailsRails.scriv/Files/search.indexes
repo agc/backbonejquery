@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3">
+            <Title>Sin título</Title>
+        </Document>
+        <Document ID="4">
+            <Title>Rails primeros pasos</Title>
+            <Text>
+
+Rails Primeros pasos
+
+Crear aplicación, scaffolding
+
+Comandos para crear aplicación, crear controlador, ejecutar migración
+rails new things_i_bought
+cd things_i_bought/
+bin/rails  generate scaffold purchase name:string cost:float
+
+La aplicación se ejecuta mediante
+
+bin/rails server 
+
+Migraciones
+bin/rake db:migrate
+bin/rake db:rollback
+Rutas
+
+#
+
+Sociis mauris in integer, a dolor netus non dui aliquet, sagittis felis sodales, dolor sociis mauris, vel eu libero cras. Faucibus at. Arcu habitasse elementum est, ipsum purus pede porttitor class, ut adipiscing, aliquet sed auctor, imperdiet arcu per diam dapibus libero duis. Enim eros in vel, volutpat nec pellentesque leo, temporibus scelerisque nec.
+Puesto de trabajo, Empresa; Ciudad, Provincia — 2009–2011
+Ac dolor ac adipiscing amet bibendum nullam, lacus molestie ut libero nec, diam et, pharetra sodales, feugiat ullamcorper id tempor id vitae. Mauris pretium aliquet, lectus tincidunt.
+
+Puesto de trabajo, Empresa; Ciudad, Provincia — 2006–2008
+Porttitor mollis imperdiet libero senectus pulvinar. Etiam molestie mauris ligula laoreet, vehicula eleifend.
+Puesto de trabajo, Empresa; Ciudad, Provincia — 2003–2005
+Repellat orci erat et, sem cum, ultricies sollicitudin amet eleifend dolor nullam erat, malesuada est leo ac.
+Formación
+Universidad Provincial, Ciudad, Provincia — Título, Año
+Aptitudes
+Varius natoque turpis elementum est. Duis montes, tellus lobortis lacus amet arcu et. In vitae vel, wisi at, id praesent bibendum libero faucibus porta egestas, quisque praesent ipsum fermentum tempor.
+Referencias
+
+
+
+
+
+
+</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

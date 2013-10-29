@@ -1,0 +1,3 @@
+git show sha:ruta/al/fichero  
+
+muestra la versión del fichero correspondiente a ese commit
