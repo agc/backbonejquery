@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ejemplo clausura </title>
+
+￼￼<script type="text/javascript">
+      $(function () {
+          var local = 1;
+          window.setInterval(function(){
+              $('#display').
+             append('<div>At '+new Date()+' local='+local+'</div>');
+          local++;
+        },3000);
+      });
+    </script>
+  </head>
+  <body>
+    <div id="display"></div>
+  </body>
+</html>

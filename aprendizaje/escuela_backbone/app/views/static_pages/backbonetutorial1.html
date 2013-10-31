@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ejemplo 1 Backbone</title>
+</head>
+<body>
+   <p>Ejemplos del tutorial <a href="http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/">Tutorial de backbone</a></p>
+   <p>El código se encuentra en el repositorio git (cada paso del tutorial es un commit) <a href="https://github.com/amejiarosario/Backbone-tutorial/commits/master">Repositorio</a></a></p>
+   <div id="container">Loading...</div>
+
+   <script type="text/javascript">
+       var AppView = Backbone.View.extend({
+         // el - stands for element. Every view has a element associate in with HTML content will be rendered.
+         el: '#container',
+         // It's the first function called when this view it's instantiated.
+         initialize: function(){
+           this.render();
+         },
+         // $el - it's a cached jQuery object (el), in which you can use jQuery functions to push content. Like the Hello World in this case.
+         render: function(){
+           this.$el.html("Hello World");
+         }
+       });
+
+       var appView = new AppView();
+     </script>
+</body>
+</html>
