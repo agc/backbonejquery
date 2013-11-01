@@ -1,0 +1,159 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"prop_ordered"
+			],
+			[
+				"p",
+				"prop_minimum"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Haskell/Haskell.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/agc/Central/JavaScript/repositorio/aprendizaje/Backbone/MiTutorial/step1.html",
+		"/Users/agc/Central/JavaScript/repositorio/aprendizaje/Backbone/MiTutorial/1.js",
+		"/Users/agc/Central/JavaScript/repositorio/aprendizaje/processing/hello.pde",
+		"/Users/agc/Central/JavaScript/repositorio/aprendizaje/Backbone/leeme.txt",
+		"/Users/agc/Central/Scala/soporte/Learning Play! Framework 2/play2-book-chapters-play2.1/chap5/play-sbook/app/controllers/Chats.scala",
+		"/Users/agc/Central/Scala/soporte/Learning Play! Framework 2/play2-book-chapters-play2.1/chap5/play-sbook/app/models/User.scala",
+		"/Users/agc/Central/Scala/soporte/Learning Play! Framework 2/play2-book-chapters-play2.1/chap5/play-jbook/app/models/User.java",
+		"/Users/agc/Central/Scala/soporte/Learning Play! Framework 2/play2-book-chapters-play2.1/chap9/play-sbook/app/controllers/Users.scala",
+		"/Users/agc/Central/Scala/soporte/Learning Play! Framework 2/play2-book-chapters-play2.1/chap9/play-sbook/app/controllers/Content.scala",
+		"/Users/agc/Central/Scala/soporte/Learning Play! Framework 2/play2-book-chapters-play2.1/chap9/play-sbook/app/models/Image.scala",
+		"/Users/agc/Central/Scala/soporte/Learning Play! Framework 2/play2-book-chapters-play2.1/chap5/play-sbook/app/models/Image.scala",
+		"/Users/agc/Central/Scala/soporte/Learning Play! Framework 2/play2-book-chapters-play2.1/chap5/play-sbook/conf/evolutions/default/1.sql",
+		"/Users/agc/Central/Scala/soporte/Learning Play! Framework 2/play2-book-chapters-play2.1/chap5/play-jbook/app/models/Image.java",
+		"/Users/agc/Central/Scala/soporte/Learning Play! Framework 2/play2-book-chapters-play2.1/chap9/play-sbook/app/controllers/Chats.scala",
+		"/Users/agc/Central/Scala/soporte/Learning Play! Framework 2/play2-book-chapters-play2.1/chap6/play-sbook/app/models/Image.scala"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"processing",
+			"editForm"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true
+}
