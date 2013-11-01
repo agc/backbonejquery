@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ejemplo 1 Backbone</title>
+</head>
+<body>
+   <p>Ejemplos del tutorial <a href="http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/">Tutorial de backbone</a></p>
+   <p>El código se encuentra en el repositorio git (cada paso del tutorial es un commit) <a href="https://github.com/amejiarosario/Backbone-tutorial/commits/master">Repositorio</a></a></p>
+   <div id="container">Loading...</div>
+
+   <script type="text/javascript">
+       var AppView = Backbone.View.extend({
+         el: $('#container'),
+         // template
+         // he tenido que sustituir el delimitador por el delimitador escapado
+         // porque interfiere con el código erb
+
+         template: _.template("<h3>Hola <%%= who %><h3>"),
+         initialize: function(){
+           this.render();
+         },
+         render: function(){
+           this.$el.html(this.template({who: 'mundo!'}));
+         }
+       });
+
+       var appView = new AppView();
+     </script>
+</body>
+</html>

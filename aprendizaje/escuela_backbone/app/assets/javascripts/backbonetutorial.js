@@ -15,4 +15,5 @@
 //= require turbolinks
 //= require underscore-min
 //= require backbone-min
+//= require backbone.localStorage-min
 //= require_tree ./backbone
