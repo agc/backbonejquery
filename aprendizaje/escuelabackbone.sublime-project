@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "EscuelaBackbone"
+		},
+		{
+			"path": "rails/escuela_backbone"
 		}
 	]
 }

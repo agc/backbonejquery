@@ -49,7 +49,7 @@
       $(this.el).append("<button id='nuevo'>Añadir item a la lista </button>");
       $(this.el).append("<ul></ul>");
       _(this.collection.models).each(function(item){ // in case collection is not empty
-        self.appendItem(item);
+        self.itemPuesto(item);
       }, this);
     },
     ponerItem: function(){

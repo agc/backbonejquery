@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ejemplo 1 Backbone</title>
+</head>
+<body>
+   <p>Ejemplos del tutorial <a href="http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/">Tutorial de backbone</a></p>
+   <p>El código se encuentra en el repositorio git (cada paso del tutorial es un commit) <a href="https://github.com/amejiarosario/Backbone-tutorial/commits/master">Repositorio</a></a></p>
+   <div id="container">Loading...</div>
+   
+   <script src="../javascript/jquery-1.9.0.min.js"></script>
+   <script src="../javascript/json2.js"></script>
+   <script src="../javascript/underscore-min.js"></script>
+   <script src="../javascript/backbone-min.js"></script>
+   <script  src="../javascript/backbone.localStorage-min.js" type="text/javascript"></script>  
+
+   <script type="text/javascript">
+       var AppView = Backbone.View.extend({
+         
+         el: '#container',
+         
+         initialize: function(){
+           this.render();
+         },
+         
+         render: function(){
+           this.$el.html("Hello World");
+         }
+       });
+
+       var appView = new AppView();
+       // el elemento que se asocia con contenido HTML que será renderizado
+       // $el objeto jQuery cacheado, se pueden usar funciones jQuery con él, para poner contenido
+       
+       
+     </script>
+</body>
+</html>

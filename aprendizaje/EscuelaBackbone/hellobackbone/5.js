@@ -1,8 +1,4 @@
-// **This example introduces two new Model actions (swap and delete), illustrating how such actions can be handled within a Model's View.**
-//
-// _Working example: [5.html](../5.html)._
 
-//
 (function($){
   // `Backbone.sync`: Overrides persistence storage with dummy function. This enables use of `Model.destroy()` without raising an error.
   Backbone.sync = function(method, model, success, error){
@@ -21,7 +17,7 @@
   });
 
   var ItemView = Backbone.View.extend({
-    tagName: 'li', // name of tag to be created
+    tagName: 'li', 
     // `ItemView`s now respond to two clickable actions for each `Item`: swap and delete.
     events: {
       'click span.swap':  'swap',
@@ -29,15 +25,17 @@
     },
     // `initialize()` now binds model change/removal to the corresponding handlers below.
     initialize: function(){
-      _.bindAll(this, 'render', 'unrender', 'swap', 'remove'); // every function that uses 'this' as the current object should be in here
+      _.bindAll(this, 'render', 'unrender', 'swap', 'remove'); 
 
-      this.model.bind('change', this.render);
+      this.model.bind('change', this.render); //Cuando hay un cambio del modelo se renderiza de nuevo la vista
       this.model.bind('remove', this.unrender);
     },
     // `render()` now includes two extra `span`s corresponding to the actions swap and delete.
     render: function(){
-      $(this.el).html('<span style="color:black;">'+this.model.get('part1')+' '+this.model.get('part2')+'</span> &nbsp; &nbsp; <span class="swap" style="font-family:sans-serif; color:blue; cursor:pointer;">[swap]</span> <span class="delete" style="cursor:pointer; color:red; font-family:sans-serif;">[delete]</span>');
-      return this; // for chainable calls, like .render().el
+      $(this.el).html('<span style="color:black;">'+this.model.get('part1')+' '+this.model.get('part2')+'</span> &nbsp; &nbsp;'+ 
+        '<span class="swap" style="font-family:sans-serif; color:blue; cursor:pointer;">[swap]</span>'+ 
+        '<span class="delete" style="cursor:pointer; color:red; font-family:sans-serif;">[delete]</span>');
+      return this; 
     },
     // `unrender()`: Makes Model remove itself from the DOM.
     unrender: function(){
@@ -61,13 +59,13 @@
   var ListView = Backbone.View.extend({
     el: $('body'), // el attaches to existing element
     events: {
-      'click button#add': 'addItem'
+      'click button#add': 'ponerItem'
     },
     initialize: function(){
-      _.bindAll(this, 'render', 'addItem', 'appendItem'); // every function that uses 'this' as the current object should be in here
+      _.bindAll(this, 'render', 'ponerItem', 'itemPuesto'); 
 
       this.collection = new List();
-      this.collection.bind('add', this.appendItem); // collection event binder
+      this.collection.bind('add', this.itemPuesto); // collection event binder
 
       this.counter = 0;
       this.render();
@@ -77,10 +75,10 @@
       $(this.el).append("<button id='add'>Add list item</button>");
       $(this.el).append("<ul></ul>");
       _(this.collection.models).each(function(item){ // in case collection is not empty
-        self.appendItem(item);
+        self.itemPuesto(item);
       }, this);
     },
-    addItem: function(){
+    ponerItem: function(){
       this.counter++;
       var item = new Item();
       item.set({
@@ -88,7 +86,7 @@
       });
       this.collection.add(item);
     },
-    appendItem: function(item){
+    itemPuesto: function(item){
       var itemView = new ItemView({
         model: item
       });
@@ -98,4 +96,6 @@
 
   var listView = new ListView();
 })(jQuery);
+
+//En el ejemplo se introducen dos acciones del modelo y se ilustra cómo pueden ser manejadas por la vista
 
