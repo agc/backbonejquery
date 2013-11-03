@@ -20,10 +20,10 @@
     },
     
     initialize: function(){
-      _.bindAll(this, 'render', 'ponerItem', 'itemIncluido'); // remember: every function that uses 'this' as the current object should be in here
+      _.bindAll(this, 'render', 'ponerItem', 'itemPuesto'); // remember: every function that uses 'this' as the current object should be in here
 
       this.collection = new List();
-      this.collection.bind('add', this.itemIncluido); //cuando se añade un modelo se invoca este metodo
+      this.collection.bind('add', this.itemPuesto); //cuando se añade un modelo se invoca este metodo
 
       this.counter = 0;
       this.render();
@@ -34,7 +34,7 @@
       $(this.el).append("<button id='nuevo'>Añadir un item a la lista..</button>");
       $(this.el).append("<ul></ul>");
       _(this.collection.models).each(function(item){ // in case collection is not empty
-        self.appendItem(item);
+        self.ponerItem(item);
       }, this);
     },
     // `addItem()` now deals solely with models/collections. View updates are delegated to the `add` event listener `appendItem()` below.
@@ -47,7 +47,7 @@
       this.collection.add(item); // add item to collection; view is updated via event 'add'
     },
     // `appendItem()` is triggered by the collection event `add`, and handles the visual update.
-    itemIncluido: function(item){
+    itemPuesto: function(item){
       $('ul', this.el).append("<li>"+item.get('part1')+" "+item.get('part2')+"</li>");
     }
   });
