@@ -1,0 +1,118 @@
+[0m[[0minfo[0m] [0mUpdating {file:/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/play/play-scala-backbone-todo/}play-scala-backbone-todo...[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/play/play_2.10/2.1.3/play_2.10-2.1.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] play#play_2.10;2.1.3!play_2.10.jar (10539ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/play/play-jdbc_2.10/2.1.3/play-jdbc_2.10-2.1.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] play#play-jdbc_2.10;2.1.3!play-jdbc_2.10.jar (1253ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/typesafe/play/play-slick_2.10/0.4.0/play-slick_2.10-0.4.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-slick_2.10;0.4.0!play-slick_2.10.jar (3907ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/play/templates_2.10/2.1.3/templates_2.10-2.1.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] play#templates_2.10;2.1.3!templates_2.10.jar (1094ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/play/play-iteratees_2.10/2.1.3/play-iteratees_2.10-2.1.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] play#play-iteratees_2.10;2.1.3!play-iteratees_2.10.jar (2316ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] io.netty#netty;3.6.3.Final!netty.jar(bundle) (27058ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/com/typesafe/netty/netty-http-pipelining/1.1.1/netty-http-pipelining-1.1.1.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.netty#netty-http-pipelining;1.1.1!netty-http-pipelining.jar (1172ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.slf4j#slf4j-api;1.6.6!slf4j-api.jar (1235ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/slf4j/jul-to-slf4j/1.6.6/jul-to-slf4j-1.6.6.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.slf4j#jul-to-slf4j;1.6.6!jul-to-slf4j.jar (505ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.6.6/jcl-over-slf4j-1.6.6.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.slf4j#jcl-over-slf4j;1.6.6!jcl-over-slf4j.jar (870ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.0.7/logback-core-1.0.7.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] ch.qos.logback#logback-core;1.0.7!logback-core.jar (9023ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.0.7/logback-classic-1.0.7.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] ch.qos.logback#logback-classic;1.0.7!logback-classic.jar (7857ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.1.0/akka-actor_2.10-2.1.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.10;2.1.0!akka-actor_2.10.jar(bundle) (49287ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.10/2.1.0/akka-slf4j_2.10-2.1.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-slf4j_2.10;2.1.0!akka-slf4j_2.10.jar(bundle) (1480ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.10.0/0.6/scala-stm_2.10.0-0.6.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-stm#scala-stm_2.10.0;0.6!scala-stm_2.10.0.jar (16973ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/joda-time/joda-time/2.1/joda-time-2.1.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] joda-time#joda-time;2.1!joda-time.jar (17570ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.joda#joda-convert;1.2!joda-convert.jar (1550ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/ning/async-http-client/1.7.6/async-http-client-1.7.6.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.ning#async-http-client;1.7.6!async-http-client.jar (9633ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.10/jackson-core-asl-1.9.10.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.codehaus.jackson#jackson-core-asl;1.9.10!jackson-core-asl.jar (4263ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.codehaus.jackson#jackson-mapper-asl;1.9.10!jackson-mapper-asl.jar (25069ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/net/sf/ehcache/ehcache-core/2.6.0/ehcache-core-2.6.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] net.sf.ehcache#ehcache-core;2.6.0!ehcache-core.jar (36434ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/play/play-java_2.10/2.1.3/play-java_2.10-2.1.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] play#play-java_2.10;2.1.3!play-java_2.10.jar (2300ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/jolbox/bonecp/0.7.1.RELEASE/bonecp-0.7.1.RELEASE.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.jolbox#bonecp;0.7.1.RELEASE!bonecp.jar(bundle) (3145ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/yaml/snakeyaml/1.10/snakeyaml-1.10.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.yaml#snakeyaml;1.10!snakeyaml.jar(bundle) (8056ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/hibernate/hibernate-validator/4.3.0.Final/hibernate-validator-4.3.0.Final.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.hibernate#hibernate-validator;4.3.0.Final!hibernate-validator.jar (11658ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/springframework/spring-context/3.1.2.RELEASE/spring-context-3.1.2.RELEASE.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.springframework#spring-context;3.1.2.RELEASE!spring-context.jar (19562ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/springframework/spring-core/3.1.2.RELEASE/spring-core-3.1.2.RELEASE.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.springframework#spring-core;3.1.2.RELEASE!spring-core.jar (10553ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/springframework/spring-beans/3.1.2.RELEASE/spring-beans-3.1.2.RELEASE.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.springframework#spring-beans;3.1.2.RELEASE!spring-beans.jar (15474ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] javax.validation#validation-api;1.0.0.GA!validation-api.jar (1516ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/jboss/logging/jboss-logging/3.1.0.CR2/jboss-logging-3.1.0.CR2.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.jboss.logging#jboss-logging;3.1.0.CR2!jboss-logging.jar (2987ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] xml-apis#xml-apis;1.0.b2!xml-apis.jar (3932ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/google/guava/guava/14.0/guava-14.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.google.guava#guava;14.0!guava.jar(bundle) (53925ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/play/play-test_2.10/2.1.3/play-test_2.10-2.1.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] play#play-test_2.10;2.1.3!play-test_2.10.jar (1818ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/specs2/specs2_2.10/1.13/specs2_2.10-1.13.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.specs2#specs2_2.10;1.13!specs2_2.10.jar (176136ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/fluentlenium/fluentlenium-festassert/0.7.3/fluentlenium-festassert-0.7.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.fluentlenium#fluentlenium-festassert;0.7.3!fluentlenium-festassert.jar (1088ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.hamcrest#hamcrest-core;1.1!hamcrest-core.jar (681ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/specs2/scalaz-core_2.10/7.0.0/scalaz-core_2.10-7.0.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.specs2#scalaz-core_2.10;7.0.0!scalaz-core_2.10.jar (18525ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/specs2/scalaz-concurrent_2.10/7.0.0/scalaz-concurrent_2.10-7.0.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.specs2#scalaz-concurrent_2.10;7.0.0!scalaz-concurrent_2.10.jar (726ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/specs2/scalaz-effect_2.10/7.0.0/scalaz-effect_2.10-7.0.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.specs2#scalaz-effect_2.10;7.0.0!scalaz-effect_2.10.jar (979ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/fluentlenium/fluentlenium-core/0.7.3/fluentlenium-core-0.7.3.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.fluentlenium#fluentlenium-core;0.7.3!fluentlenium-core.jar (453ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-java/2.25.0/selenium-java-2.25.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-java;2.25.0!selenium-java.jar (596ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/junit/junit-dep/4.8.2/junit-dep-4.8.2.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] junit#junit-dep;4.8.2!junit-dep.jar (1812ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-android-driver/2.25.0/selenium-android-driver-2.25.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-android-driver;2.25.0!selenium-android-driver.jar (963ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/2.25.0/selenium-chrome-driver-2.25.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-chrome-driver;2.25.0!selenium-chrome-driver.jar (771ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.25.0/selenium-htmlunit-driver-2.25.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-htmlunit-driver;2.25.0!selenium-htmlunit-driver.jar (434ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.25.0/selenium-ie-driver-2.25.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-ie-driver;2.25.0!selenium-ie-driver.jar (3361ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-iphone-driver/2.25.0/selenium-iphone-driver-2.25.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-iphone-driver;2.25.0!selenium-iphone-driver.jar (464ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.25.0/selenium-safari-driver-2.25.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-safari-driver;2.25.0!selenium-safari-driver.jar (440ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-support/2.25.0/selenium-support-2.25.0.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-support;2.25.0!selenium-support.jar (704ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/webbitserver/webbit/0.4.6/webbit-0.4.6.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.webbitserver#webbit;0.4.6!webbit.jar (1022ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/net/sourceforge/htmlunit/htmlunit/2.9/htmlunit-2.9.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] net.sourceforge.htmlunit#htmlunit;2.9!htmlunit.jar (2399ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] commons-lang#commons-lang;2.6!commons-lang.jar (878ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/apache/httpcomponents/httpmime/4.1.2/httpmime-4.1.2.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpmime;4.1.2!httpmime.jar (707ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/net/sourceforge/htmlunit/htmlunit-core-js/2.9/htmlunit-core-js-2.9.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] net.sourceforge.htmlunit#htmlunit-core-js;2.9!htmlunit-core-js.jar (1879ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/xerces/xercesImpl/2.9.1/xercesImpl-2.9.1.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] xerces#xercesImpl;2.9.1!xercesImpl.jar (1773ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/net/sourceforge/nekohtml/nekohtml/1.9.15/nekohtml-1.9.15.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] net.sourceforge.nekohtml#nekohtml;1.9.15!nekohtml.jar (535ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/net/sourceforge/cssparser/cssparser/0.9.5/cssparser-0.9.5.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] net.sourceforge.cssparser#cssparser;0.9.5!cssparser.jar (670ms)[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.jar ...[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] xml-apis#xml-apis;1.3.04!xml-apis.jar (596ms)[0m
+[0m[[0minfo[0m] [0mDone updating.[0m

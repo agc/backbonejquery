@@ -1,0 +1,1 @@
+(function(){dust.register("templates/todoitem",body_0);function body_0(chk,ctx){return chk.write("<span class=\"edit\">").reference(ctx.get("content"),ctx,"h").write("</span> <a href=\"#\" class=\"delete\">X</a>");}return body_0;})();
