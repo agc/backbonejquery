@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="SBT: cglib:cglib-nodep:2.1_3">
-    <CLASSES>
-      <root url="jar:///Applications/play-2.2.0/repository/local/cglib/cglib-nodep/2.1_3/jars/cglib-nodep.jar!/"></root>
-    </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
-  </library>
-</component>

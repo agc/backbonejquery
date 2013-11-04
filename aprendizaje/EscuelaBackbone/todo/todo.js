@@ -1,0 +1,1 @@
+$.fn.editInPlace = function(method, options...) ->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25236" Modified="2013-10-29 20:07:04 +0100">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25236" Modified="2013-11-04 22:09:44 +0100">
     <Binder>
         <BinderItem ID="0" Type="DraftFolder" Created="2013-10-29 19:03:24 +0100" Modified="2013-10-29 19:03:24 +0100">
             <Title>Borrador</Title>
@@ -74,7 +74,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-10-29 19:03:20 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2013-10-29 19:03:20 +0100"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2013-11-04 15:53:21 +0100"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

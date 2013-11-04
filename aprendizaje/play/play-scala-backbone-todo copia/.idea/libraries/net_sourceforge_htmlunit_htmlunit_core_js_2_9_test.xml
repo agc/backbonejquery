@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="SBT: net.sourceforge.htmlunit:htmlunit-core-js:2.9">
-    <CLASSES>
-      <root url="jar:///Applications/play-2.2.0/repository/cache/net.sourceforge.htmlunit/htmlunit-core-js/jars/htmlunit-core-js-2.9.jar!/"></root>
-    </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
-  </library>
-</component>

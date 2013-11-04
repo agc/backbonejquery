@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Todos</title>
+        <link rel="stylesheet" media="screen" href="main.css">
+        
+        <meta name="viewport" content="width=480">
+    </head>
+    <body>
+        
+
+  <h1>Todos</h1>
+
+  <div class="todos">
+
+    <div class="todolist"></div>
+
+<form action="/todos" method="POST" class="todoform">
+    
+      
+<dl class=" " id="content_field">
+    <dt><label for="content"></label></dt>
+    <dd>
+    <input type="text" id="content" name="content" value="" placeholder="What do you need to do?">
+</dd>
+    
+<dd class="info">Required</dd>
+    
+</dl>
+
+      <input type="submit" value="+">   
+</form>
+
+  </div>
+
+  <p class="credits">Written by <a href="http://github.com/jmparsons" target="_blank">JMParsons</a></p>
+
+
+ <script type="text/javascript" data-main="/assets/javascripts/main" src="/assets/javascripts/require.js"></script>
+
+    </body>
+</html>
