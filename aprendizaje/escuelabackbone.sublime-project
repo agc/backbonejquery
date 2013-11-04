@@ -6,6 +6,9 @@
 		},
 		{
 			"path": "rails/escuela_backbone"
+		},
+		{
+			"path": "play/play-scala-backbone-todo"
 		}
 	]
 }
