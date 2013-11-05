@@ -1,5 +1,8 @@
 (function() {
-  var __slice = Array.prototype.slice, __bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+  var 
+  __slice = Array.prototype.slice, 
+  __bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
   define(function() {
     var app;
     $.fn.editInPlace = function() {
@@ -47,6 +50,7 @@
         }
       });
     };
+    
     return app = {
       Models: {},
       Collections: {},

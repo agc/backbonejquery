@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ite",
+				"itemPuesto"
+			],
+			[
 				"pr",
 				"prop_ordered"
 			],
@@ -15,63 +19,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/agc/Central/BackboneJQuery/configapache.como.txt",
-			"settings":
-			{
-				"buffer_size": 300,
-				"line_ending": "Unix",
-				"name": "Alias /escuelabackbone /Users/agc/Central/Backbone"
-			}
-		},
-		{
-			"file": "EscuelaBackbone/hellobackbone/paso1.html",
-			"settings":
-			{
-				"buffer_size": 1859,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "EscuelaBackbone/hellobackbone/4.html",
-			"settings":
-			{
-				"buffer_size": 377,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "EscuelaBackbone/hellobackbone/4.js",
-			"settings":
-			{
-				"buffer_size": 2033,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "EscuelaBackbone/hellobackbone/3.js",
-			"settings":
-			{
-				"buffer_size": 2535,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "EscuelaBackbone/hellobackbone/5.html",
-			"settings":
-			{
-				"buffer_size": 377,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "EscuelaBackbone/hellobackbone/5.js",
-			"settings":
-			{
-				"buffer_size": 3537,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/Haskell/Haskell.sublime-build",
 	"command_palette":
@@ -97,6 +44,36 @@
 	},
 	"file_history":
 	[
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/play/play-scala-backbone-todo/app/assets/javascripts/modules/todo.coffee",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/play/play-scala-backbone-todo/app/assets/javascripts/main.coffee",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/play/play-scala-backbone-todo/app/assets/javascripts/router.coffee",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/play/play-scala-backbone-todo/app/assets/javascripts/shim.coffee",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/todo/todo.html",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/todo/revisar_app.js",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/todo/revisar_todo.js",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/todo/todo.js",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/todo/revisar_codigo_unico-zentasks.js",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/play/play-scala-backbone-todo/app/assets/javascripts/app.coffee",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/todo/todoitem.tl",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/play/play-scala-backbone-todo/app/assets/templates/todoitem.tpl",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/play/play-scala-backbone-todo/app/views/main.scala.html",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/play/play-scala-backbone-todo/app/views/index.scala.html",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/todo/revisar_todoitem.js",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/todo/revisar_router.js",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/rails/escuela_backbone/app/views/static_pages/backbonetutorial3.html",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/rails/escuela_backbone/app/views/static_pages/backbonetutorial2.html",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/rails/escuela_backbone/app/views/static_pages/backbonetutorial1.html",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/hellobackbone/paso1.html",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/hellobackbone/5.html",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/hellobackbone/5.js",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/hellobackbone/1.html",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/hellobackbone/1.js",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/hellobackbone/2.html",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/hellobackbone/2.js",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/hellobackbone/3.html",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/hellobackbone/3.js",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/hellobackbone/4.js",
+		"/Users/agc/Central/BackboneJQuery/repositorios/aprendizaje/EscuelaBackbone/javascript/json2.js",
 		"/Users/agc/Central/JavaScript/repositorio/aprendizaje/Backbone/MiTutorial/step1.html",
 		"/Users/agc/Central/JavaScript/repositorio/aprendizaje/Backbone/MiTutorial/1.js",
 		"/Users/agc/Central/JavaScript/repositorio/aprendizaje/processing/hello.pde",
@@ -150,200 +127,8 @@
 	"groups":
 	[
 		{
-			"selected": 6,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/agc/Central/BackboneJQuery/configapache.como.txt",
-					"settings":
-					{
-						"buffer_size": 300,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								68,
-								68
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Alias /escuelabackbone /Users/agc/Central/Backbone",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "EscuelaBackbone/hellobackbone/paso1.html",
-					"settings":
-					{
-						"buffer_size": 1859,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 174.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "EscuelaBackbone/hellobackbone/4.html",
-					"settings":
-					{
-						"buffer_size": 377,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								345,
-								345
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "EscuelaBackbone/hellobackbone/4.js",
-					"settings":
-					{
-						"buffer_size": 2033,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1771,
-								1771
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 474.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "EscuelaBackbone/hellobackbone/3.js",
-					"settings":
-					{
-						"buffer_size": 2535,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								632,
-								632
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 254.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "EscuelaBackbone/hellobackbone/5.html",
-					"settings":
-					{
-						"buffer_size": 377,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								345,
-								345
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "EscuelaBackbone/hellobackbone/5.js",
-					"settings":
-					{
-						"buffer_size": 3537,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3537,
-								3537
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 834.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
